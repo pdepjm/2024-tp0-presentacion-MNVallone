@@ -14,7 +14,8 @@ No hay muchas cosas rescatables de mi, excepto este chiste malo:
    <summary> Datitos personales </summary>
    <ul> 
    <li> Soy tecnico informático y me gustaria trabajar como desarrollador backend o en networking</li>
-   <li> Me gustan los videojuegos (la cantidad de veces que alguien debe haber mencionado esto es incalculable) </li>
+   <li> Me gustan los videojuegos (la cantidad de veces que alguien debe haber mencionado esto es incalculable), jugaba al lol, pero decidi reintegrarme a la sociedad (aunque en momentos de debilidad vuelvo a recaer). Lo que más suelo jugar son los juegos de PS2 porque pienso usarla hasta que muera el lector de DVD, lo que mas jugué es la saga Ratchet y Clank junto a los God of War. 
+   </li>
    <li> Le tengo un poco de fobia a la pala (igual pasen chamba) </li>
    <li> No me gustan las listas</li>
    </ul>
@@ -28,4 +29,4 @@ No hay muchas cosas rescatables de mi, excepto este chiste malo:
   
 </details>
 
->:bulb: **tip** ___si trabajan con sql, traten de no borrar la base de datos o la tabla de producción___ 
+>:bulb: **tip** ___si trabajan con sql, [traten de no borrar la base de datos o la tabla de producción](https://www.youtube.com/watch?v=i_cVJgIz_Cs)___ 
