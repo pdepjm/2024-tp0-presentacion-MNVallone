@@ -2,9 +2,9 @@
 ## Presentación
 Hola me llamo Matías Vallone, *legajo*: 214.204-1 y tengo 19 años.
 
-Si me tuviese que describir de alguna manera seria "El estereotipo de estudiante de sistemas"
+Si me tuviese que describir de alguna manera seria "El estereotipo de estudiante de sistemas".
 
-no hay muchas cosas rescatables de mi, excepto este chiste malo:
+No hay muchas cosas rescatables de mi, excepto este chiste malo:
 <details>
   <summary> Un div centrado </summary>
   <p align="right" style="background-color: #e81046; color: #fff;">
